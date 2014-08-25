@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: bpmn2-emf
+Bundle-SymbolicName: bpmn2-emf
+Bundle-Version: 1.1.0
+Require-Bundle: org.eclipse.bpmn2
+Bundle-Vendor: LearnPAd
